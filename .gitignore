@@ -1,0 +1,18 @@
+# PyInstaller 产物
+build/
+dist/
+*.spec
+
+# 打包日志
+build_log.txt
+build32_log.txt
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 运行时生成的用户配置与数据
+config.json
+messages.json
+classes.json
+*.db
